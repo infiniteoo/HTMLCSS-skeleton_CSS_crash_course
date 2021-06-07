@@ -30,3 +30,16 @@
 .section-a h5 {
   margin-bottom: 0.3rem;
 }
+
+.section-c {
+  background-image: url(../images/section-bg.jpg);
+  background-size: cover;
+  color: #fff;
+}
+
+.section-c .section-description {
+  margin-bottom: 4rem;
+}
+
+
+
